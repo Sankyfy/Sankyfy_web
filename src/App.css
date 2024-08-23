@@ -1,0 +1,17 @@
+p{
+  color:#344767;
+}
+
+#iconB{
+  color: black !important;
+}
+
+.App {
+  text-align: center;
+  background: #f0f2f5;
+}
+
+.sw{
+  max-width:80%;
+  margin: auto;
+}
